@@ -1,12 +1,12 @@
 {
   "name": "com.bugreport.2022-import-bug",
   "description": "Example of a unity 2022.7 bug importing packages from git",
-  "version": "1.0.0-0",
+  "version": "1.0.0-1",
   "unity": "2022.2",
   "displayName": "Git Import Bug",
   "repository": {
     "type": "git",
-    "url": "https://github.com/StressLevelZero/Custom-URP.git"
+    "url": "https://github.com/StressLevelZero/2022-import-bug"
   },
   "author": {
     "name": "StressLevelZero",
